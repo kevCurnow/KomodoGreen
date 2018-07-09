@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoGreen.BLL", "KomodoGreen.BLL\KomodoGreen.BLL.csproj", "{1D77606F-2A50-44EF-ABC0-72ECB4DF007B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoGreen.Contracts", "KomodoGreen.Contracts\KomodoGreen.Contracts.csproj", "{33945C2D-48B1-4B06-8444-CA2634C23EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoGreen.Data", "KomodoGreen.Data\KomodoGreen.Data.csproj", "{50161D3A-B258-4ABF-A992-72A4D1F4FE26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoGreen.UI", "KomodoGreen.UI\KomodoGreen.UI.csproj", "{951B3E5D-F661-4758-B17F-B15F87E60416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoGreen.UnitTests", "KomodoGreen.UnitTests\KomodoGreen.UnitTests.csproj", "{238A8AC2-EFCE-46DA-9972-A2EBBD986EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D77606F-2A50-44EF-ABC0-72ECB4DF007B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D77606F-2A50-44EF-ABC0-72ECB4DF007B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D77606F-2A50-44EF-ABC0-72ECB4DF007B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D77606F-2A50-44EF-ABC0-72ECB4DF007B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33945C2D-48B1-4B06-8444-CA2634C23EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33945C2D-48B1-4B06-8444-CA2634C23EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33945C2D-48B1-4B06-8444-CA2634C23EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33945C2D-48B1-4B06-8444-CA2634C23EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50161D3A-B258-4ABF-A992-72A4D1F4FE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50161D3A-B258-4ABF-A992-72A4D1F4FE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50161D3A-B258-4ABF-A992-72A4D1F4FE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50161D3A-B258-4ABF-A992-72A4D1F4FE26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951B3E5D-F661-4758-B17F-B15F87E60416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951B3E5D-F661-4758-B17F-B15F87E60416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951B3E5D-F661-4758-B17F-B15F87E60416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951B3E5D-F661-4758-B17F-B15F87E60416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238A8AC2-EFCE-46DA-9972-A2EBBD986EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238A8AC2-EFCE-46DA-9972-A2EBBD986EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238A8AC2-EFCE-46DA-9972-A2EBBD986EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238A8AC2-EFCE-46DA-9972-A2EBBD986EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {366B0044-EDA9-47DA-80F9-14EF170730D0}
+	EndGlobalSection
+EndGlobal
