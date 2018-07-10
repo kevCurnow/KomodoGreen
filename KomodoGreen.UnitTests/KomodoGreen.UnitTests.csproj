@@ -48,7 +48,10 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="ElectricServiceTests.cs" />
+    <Compile Include="GasServiceTests.cs" />
+    <Compile Include="HybridServiceTests.cs" />
+    <Compile Include="MockConsole.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -58,6 +61,10 @@
     <ProjectReference Include="..\KomodoGreen.BLL\KomodoGreen.BLL.csproj">
       <Project>{1d77606f-2a50-44ef-abc0-72ecb4df007b}</Project>
       <Name>KomodoGreen.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KomodoGreen.Data\KomodoGreen.Data.csproj">
+      <Project>{50161D3A-B258-4ABF-A992-72A4D1F4FE26}</Project>
+      <Name>KomodoGreen.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\KomodoGreen.UI\KomodoGreen.UI.csproj">
       <Project>{951b3e5d-f661-4758-b17f-b15f87e60416}</Project>

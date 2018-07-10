@@ -42,11 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ElectricUI.cs" />
+    <Compile Include="GasUI.cs" />
+    <Compile Include="HybridUI.cs" />
     <Compile Include="IConsole.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="ProgramUI.cs" />
+    <Compile Include="CarUI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RealConsole.cs" />
+    <Compile Include="UtilMethods.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

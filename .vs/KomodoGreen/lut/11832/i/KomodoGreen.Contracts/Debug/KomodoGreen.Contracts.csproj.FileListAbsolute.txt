@@ -1,0 +1,5 @@
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\.vs\KomodoGreen\lut\0\b\KomodoGreen.Contracts\bin\Debug\KomodoGreen.Contracts.dll
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoGreen.Contracts\Debug\KomodoGreen.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoGreen.Contracts\Debug\KomodoGreen.Contracts.csproj.CopyComplete
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoGreen.Contracts\Debug\KomodoGreen.Contracts.dll
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoGreen.Contracts\Debug\KomodoGreen.Contracts.csprojAssemblyReference.cache

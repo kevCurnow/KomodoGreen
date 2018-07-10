@@ -1,0 +1,2 @@
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoGreen.UI\Debug\KomodoGreen.UI.csproj.CoreCompileInputs.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoGreen.UI\Debug\KomodoGreen.UI.csprojAssemblyReference.cache

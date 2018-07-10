@@ -1,0 +1,9 @@
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Contracts\bin\Debug\KomodoGreen.Contracts.dll
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Contracts\bin\Debug\KomodoGreen.Contracts.pdb
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Contracts\bin\Debug\KomodoGreen.Data.dll
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Contracts\bin\Debug\KomodoGreen.Data.pdb
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Contracts\obj\Debug\KomodoGreen.Contracts.csprojAssemblyReference.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Contracts\obj\Debug\KomodoGreen.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Contracts\obj\Debug\KomodoGreen.Contracts.csproj.CopyComplete
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Contracts\obj\Debug\KomodoGreen.Contracts.dll
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Contracts\obj\Debug\KomodoGreen.Contracts.pdb

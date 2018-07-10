@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KomodoGreen.Data
 {
-    class HybridCars : Cars
+    public class HybridCars : Cars
     {
         private float _milesPerGallon;
 
@@ -29,6 +29,11 @@ namespace KomodoGreen.Data
             : base(make, model, year, numberOfCityMilesPerWeek, numberOfHighwayMilesPerWeek)
         {
             MilesPerGallon = milesPerGallon;
+        }
+
+        public HybridCars()
+        {
+
         }
     }
 }

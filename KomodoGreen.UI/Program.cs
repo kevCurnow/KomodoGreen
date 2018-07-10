@@ -10,7 +10,7 @@ namespace KomodoGreen.UI
     {
         static void Main(string[] args)
         {
-            var ui = new ProgramUI(new RealConsole());
+            CarUI.Run();
         }
     }
 }

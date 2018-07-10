@@ -29,5 +29,10 @@ namespace KomodoGreen.Data
         {
             MilesPerGallon = milesPerGallon;
         }
+
+        public GasCars()
+        {
+
+        }
     }
 }

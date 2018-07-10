@@ -6,15 +6,20 @@ using System.Threading.Tasks;
 
 namespace KomodoGreen.Data
 {
-    public abstract class Cars
+    public class Cars
     {
-        protected Cars(string make, string model, int year, float numberOfCityMilesPerWeek, float numberOfHighwayMilesPerWeek)
+        public Cars(string make, string model, int year, float numberOfCityMilesPerWeek, float numberOfHighwayMilesPerWeek)
         {
             Make = make;
             Model = model;
             Year = year;
             NumberOfCityMilesPerWeek = numberOfCityMilesPerWeek;
             NumberOfHighwayMilesPerWeek = numberOfHighwayMilesPerWeek;
+        }
+
+        public Cars()
+        {
+
         }
 
         private string _make;

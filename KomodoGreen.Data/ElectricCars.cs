@@ -29,5 +29,10 @@ namespace KomodoGreen.Data
         {
             MilesPerCharge = milesPerCharge;
         }
+
+        public ElectricCars()
+        {
+
+        }
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\.vs\KomodoGreen\lut\0\b\KomodoGreen.BLL\bin\Debug\KomodoGreen.BLL.dll
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoGreen.BLL\Debug\KomodoGreen.BLL.csproj.CoreCompileInputs.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoGreen.BLL\Debug\KomodoGreen.BLL.csproj.CopyComplete
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoGreen.BLL\Debug\KomodoGreen.BLL.dll
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoGreen.BLL\Debug\KomodoGreen.BLL.csprojAssemblyReference.cache

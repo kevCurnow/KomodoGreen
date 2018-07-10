@@ -1,0 +1,6 @@
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Data\bin\Debug\KomodoGreen.Data.dll
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Data\bin\Debug\KomodoGreen.Data.pdb
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Data\obj\Debug\KomodoGreen.Data.csprojAssemblyReference.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Data\obj\Debug\KomodoGreen.Data.csproj.CoreCompileInputs.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Data\obj\Debug\KomodoGreen.Data.dll
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\KomodoGreen\KomodoGreen.Data\obj\Debug\KomodoGreen.Data.pdb

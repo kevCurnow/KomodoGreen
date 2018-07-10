@@ -42,6 +42,9 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="ICarService.cs" />
+    <Compile Include="IElectricService.cs" />
+    <Compile Include="IGasService.cs" />
+    <Compile Include="IHybridService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
